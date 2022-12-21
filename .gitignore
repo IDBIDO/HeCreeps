@@ -1,0 +1,6 @@
+/.secret.json
+.idea/*
+node_modules/*
+dist/*
+main.js
+main.js.map.js
